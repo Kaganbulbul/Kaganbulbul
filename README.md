@@ -4,9 +4,9 @@
 
 ### Hi there 👋 I'm Kagan Bulbul
 - 🌍 I live in Ankara, Turkey
-- 👔 I'm a Project, Product, or Program Manager Candidate. My CV is available when you contact me I will share with you.
+- 👔 I'm a Project, Product, or Program Manager Candidate. 
 - 👨‍💻 Write in React, JavaScript, Css, or Html if it needs
-- 💬 You can ask me anything about hosting
+- 💬 My CV is available just contact with me.
 - ✉️ You can shoot me an email at [bulbulkagann@gmail.com](mailto:bulbulkagann@gmail.com) or [Linkedin/kaganbulbul](https://www.linkedin.com/in/kaganbulbul/)
 
 ---
