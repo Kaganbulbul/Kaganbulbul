@@ -2,18 +2,13 @@
 
 <h3 align="center">Project, Product, or Program Manager Candidate </h3>
 
-## I little bit about me
+### Hi there 👋 I'm Kagan Bulbul
+- 🌍 I live in Ankara, Turkey
+- 👔 I'm an IT manager, my CV is available when you contact me I will share with you.
+- 👨‍💻 Write in React, JavaScript, Css, or Html if it needs
+- 💬 You can ask me anything about hosting
+- ✉️ You can shoot me an email at [bulbulkagann@gmail.com](mailto:bulbulkagann@gmail.com)
 
-🎓 &nbsp;I'm currently juggling these [Udacity](https://imp.i115008.net/BXeWKW) courses and intend to complete them soon:
-
-- [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M)
-- [Cloud Architect using Microsoft Azure](https://imp.i115008.net/7mLA1y)
-
-🌱 &nbsp;I'm on track with learning more about MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
-
+<img alt="PHP" src="https://img.shields.io/badge/php-%236DB33F.svg?&style=for-the-badge&logo=php&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 
 ---
