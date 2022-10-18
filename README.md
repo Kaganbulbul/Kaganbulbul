@@ -9,7 +9,7 @@
 - 💬 You can ask me anything about hosting
 - ✉️ You can shoot me an email at [bulbulkagann@gmail.com](mailto:bulbulkagann@gmail.com) or [Linkedin/kaganbulbul](https://www.linkedin.com/in/kaganbulbul/)
 
-<img alt="React" src="[https://img.shields.io/badge/php-%236DB33F.svg?&style=for-the-badge&logo=php&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(JavaScript_library)&psig=AOvVaw0PfkMfqUwoAxAQ5VQ5siyK&ust=1666203410436000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjTvtux6voCFQAAAAAdAAAAABAM)"/>
+<img alt="React" src="file:///C:/Users/Kagan/Downloads/react.svg"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
