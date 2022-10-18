@@ -15,10 +15,5 @@
 ✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
 
----
-
-<p  align="center">
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
