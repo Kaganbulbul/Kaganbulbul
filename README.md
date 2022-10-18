@@ -1,5 +1,3 @@
-### Hi there, This is Kagan 👋
-
 <h3 align="center">Project, Product, or Program Manager Candidate </h3>
 
 ### Hi there 👋 I'm Kagan Bulbul
